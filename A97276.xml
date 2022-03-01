@@ -1,0 +1,459 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Youths behaviour, or, Decency in conversation amongst men. Composed in French by grave persons for the use and benefit of their youth. Now newly turned into English by Francis Hawkins.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1646</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 57 KB of XML-encoded text transcribed from 30 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2012-10">2012-10 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A97276</idno>
+            <idno type="STC">Wing Y204</idno>
+            <idno type="STC">Thomason E1180_1</idno>
+            <idno type="STC">Thomason C.54.aa.1(1)</idno>
+            <idno type="STC">ESTC R39198</idno>
+            <idno type="EEBO-CITATION">99872534</idno>
+            <idno type="PROQUEST">99872534</idno>
+            <idno type="VID">169433</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A97276)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 169433)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 167:E1180[1])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Youths behaviour, or, Decency in conversation amongst men. Composed in French by grave persons for the use and benefit of their youth. Now newly turned into English by Francis Hawkins.</title>
+                  <author>Hawkins, Francis, 1628-1681.</author>
+               </titleStmt>
+               <editionStmt>
+                  <edition>The fourth edition, with the addition of twenty sixe new precepts, (which are marked thus *)</edition>
+               </editionStmt>
+               <extent>[6], 50 [i.e. 53], [1] p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by W. Wilson for W. Lee; and are to be sold at the Turks-head neere the Miter Taverne in Fleetstreet,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1646.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Final page misnumbered 50.</note>
+                  <note>Annotation on Thomason copy: "Octob: 5th.".</note>
+                  <note>Reproductions of the originals in the Henry E. Huntington Library and Art Gallery (Early English Books), and the British Library (Thomason Tracts).</note>
+                  <note>Appears in catalogue and on film as C.54.aa.1(1).</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Etiquette --  Early works to 1800.</term>
+               <term>Youth --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2008-08</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2008-10</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-09</date>
+            <label>Leah Yurasek</label>Sampled and proofread</change>
+         <change>
+            <date>2011-09</date>
+            <label>Leah Yurasek</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2012-05</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:169433:1" rendition="simple:additions"/>
+            <p>Youths Behaviour, <hi>OR</hi> DECENCY IN CONVERSATION AMONGST MEN. Compoſed in French by grave perſons for the Uſe <hi>and benefit of their</hi> YOUTH. Now newly turned into Engliſh <hi>BY</hi> FRANCIS HAWKINS.</p>
+            <p>
+               <hi>The fourth Edition, with the Addition of Twenty ſixe new Precepts, (which are marked thus ⋆)</hi>
+            </p>
+            <p>
+               <hi>LONDON,</hi> Printed by <hi>W. Wilſon</hi> for <hi>W. Lee:</hi> and are to be ſold at the <hi>Turks-head</hi> neere the <hi>Miter Taverne</hi> in <hi>Fleetſtreet.</hi> 1646.</p>
+         </div>
+         <div type="to_the_reader">
+            <pb facs="tcp:169433:2"/>
+            <pb facs="tcp:169433:2"/>
+            <head>To the READER.</head>
+            <opener>
+               <salute>GENTLE YOUTH,</salute>
+            </opener>
+            <p>
+               <seg rend="decorInit">T</seg>Hinke it not amiſſe to peruſe this Peece, yet connive at the Style: for it hath neede thereof, ſince wrought by an uncouth &amp; rough File of one in greene yeares; as being aged under eight. Hence, worthy Reader, ſhew not thy ſelf too-too rigid a Cenſurer.</p>
+            <p>This his verſion is little diſgui<g ref="char:EOLhyphen"/>ſed, and therefore likely will it appeare to thee much imperfect. It ought to be his owne, or why
+<pb facs="tcp:169433:3"/>under the Title is his name writ<g ref="char:EOLhyphen"/>ten? Peradventure thou wilt ſay, what is it to me? yet heare: Such is it really, as that I preſume the Author may therein be clearely ſeene to be rendred faithfully: with this courteouſly be thou ſa<g ref="char:EOLhyphen"/>tisfied.</p>
+            <p>This ſmall Treatiſe in its uſe, will evidently appeare to re<g ref="char:EOLhyphen"/>dound to the ſingular benefit of many a young ſpirit, to whom ſolely, and purpoſely it is addreſ<g ref="char:EOLhyphen"/>ſed. Paſſe it therefore without miſtake, and candidly.</p>
+         </div>
+         <div type="encomium">
+            <pb facs="tcp:169433:3"/>
+            <head>In laudem Authoris.</head>
+            <l>THough here be wonder when 'tis knowne,</l>
+            <l>A Child ſhould make this worke his owne,</l>
+            <l>(Since he that can tranſlate and pleaſe,</l>
+            <l>Muſt needs command two Languages:)</l>
+            <l>Yet this is nothing to the reſt</l>
+            <l>Of treaſure, which this little Cheſt</l>
+            <l>Containes, and will in time breake forth</l>
+            <l>To call juſt Volumens of his worth.</l>
+            <l>If thus, a Branch! what will he bee</l>
+            <l>When he is growne to be a Tree?</l>
+            <l>So glorious in the bud, let men</l>
+            <l>Looke for th' <hi>Heſperides</hi> agen,</l>
+            <l>And gather fruit, nor think't unfit,</l>
+            <l>A Child ſhould teach the world more wit.</l>
+            <bibl>
+               <hi>J. S.</hi>
+            </bibl>
+         </div>
+         <div type="table_of_contents">
+            <pb facs="tcp:169433:4"/>
+            <head>The Contents.</head>
+            <list>
+               <item>
+                  <label>CHAP. I.</label> GEnerall and mixed precepts as touch<g ref="char:EOLhyphen"/>ing civility amongſt men. <hi>Pag. 1</hi>
+               </item>
+               <item>
+                  <label>CHAP. II.</label> Of the firſt duties and Ceremonies in con<g ref="char:EOLhyphen"/>verſation. <hi>pag. 10.</hi>
+               </item>
+               <item>
+                  <label>CAAP. III.</label> Of the faſhion of quailfying, or titl'ing of perſons to whom one ſpeaketh; to ad<g ref="char:EOLhyphen"/>viſe them, to breake a jest. <hi>pag. 19</hi>
+               </item>
+               <item>
+                  <label>CHAP. IV.</label> Of Cloathes, and arraying the body. <hi>p. 23</hi>
+               </item>
+               <item>
+                  <label>CHAP. V.</label> Of walking, bee it alone, or in company. <hi>pag. 25</hi>
+               </item>
+               <item>
+                  <label>CHAP. VI.</label> Of diſcourſe. <hi>p. 29</hi>
+               </item>
+               <item>
+                  <label>CHAP. II.</label> Of Carriage at the Table. <hi>pag. 42.</hi>
+               </item>
+            </list>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb n="1" facs="tcp:169433:4"/>
+            <head>Youths Behaviour, <hi>OR</hi> DECENCY IN CONVERSATION AMONGST MEN.</head>
+            <div n="1" type="chapter">
+               <head>
+                  <hi>CHAPTER I.</hi> Generall and mixt Precepts as touching Civility among Men.</head>
+               <p n="1">1. <seg rend="decorInit">E</seg>Uery Action done in the view of the world, ought to bee accompanied with ſome ſigne of reverence, which one beareth to all who are pre<g ref="char:EOLhyphen"/>ſent.</p>
+               <p n="2">2 It is ill beſeeming to put one in mind of any uncleane, or ill-ſavored thing.</p>
+               <pb n="2" facs="tcp:169433:5"/>
+               <p n="3">3 Take heed as much as thou canſt in the preſence of others, to put thy hand to any part of thy body, which is not ordinarily diſcovered; as are, the hands and face: and to accuſtome thy ſelfe thereunto, it is well done to ab<g ref="char:EOLhyphen"/>ſtaine from ſo doing, yea, being alone.</p>
+               <p n="4">4 Doe not thou ſhew any thing to thy companion, which may affright him.</p>
+               <p n="5">5 Sing not within thy mouth, hum<g ref="char:EOLhyphen"/>ming to thy ſelfe, unleſſe thou be a<g ref="char:EOLhyphen"/>lone, in ſuch ſort as thou canſt not be heard by others. Strike not up a Drum with thy fingers, or thy feet.</p>
+               <p n="6">6 Rub not thy teeth, nor craſh them, nor make any thing crack, in ſuch man<g ref="char:EOLhyphen"/>ner, that thou diſquiet any body.</p>
+               <p n="7">7 It is an uncivill thing to ſtretch out thine armes at length, and writhe them hither and thither.</p>
+               <p n="8">8 In coughing, or ſneezing, make not great noiſe, if it bee poſſible, &amp; ſend not forth any ſigh, in ſuch wiſe that others obſerve thee, without great occaſion.</p>
+               <p n="9">9 In yawning, howle not, and thou ſhouldſt abſtaine as much as thou canſt
+<pb n="3" facs="tcp:169433:5"/>to yawne, eſpecially when thou ſpeak<g ref="char:EOLhyphen"/>eſt, for that ſheweth one to be weary, and that one little accounted of the company: but if thou be'ſt conſtrained to yawne, by all meanes for that time being, ſpeak not, nor gape wide mouth'd but ſhut thy mouth with thy hand, or with thy handkerchiefe, if it bee need<g ref="char:EOLhyphen"/>full, readily turning thy face to another ſide.</p>
+               <p n="10">10 When thou bloweſt thy noſe, make not thy noſe ſound like a trum<g ref="char:EOLhyphen"/>pet, and after, looke not within thine handkercher. Take heed thou blow not thy noſe as children doe with their fin<g ref="char:EOLhyphen"/>gers, or with their ſleeves: but ſerve thy ſelfe of thy handkercher.</p>
+               <p n="11">11 To ſleepe when others ſpeake, to ſit when others ſtand, to walke on when others ſtay, to ſpeake when one ſhould hold his peace or heare others; are all things of ill manners: but it is permit<g ref="char:EOLhyphen"/>ted to a ſuperiour to walke in certaine places, as, to a Maſter in his Schoole.</p>
+               <p n="12">12 It is a thing unſeemly to leave ones bed out of order, and one ought
+<pb n="4" facs="tcp:169433:6"/>not to put off ones cloathes in the pre<g ref="char:EOLhyphen"/>ſence of others, nor goe out of ones Chamber half unready, or with a night<g ref="char:EOLhyphen"/>cap. Let not thy Chamber, nor thy Table where thou ſtudieſt, be unhandſome, e<g ref="char:EOLhyphen"/>ſpecially in the ſight of another, and if ſo be that thou haſt one to make thy bed, leave it not uncovered when thou goeſt out thence.</p>
+               <p n="13">13 During the time thou ſhould'ſt ſtudy, if thou be'ſt in the company of o<g ref="char:EOLhyphen"/>thers, it is not fit to make a noiſe, or read ſo loud that thou be'ſt underſtood by o<g ref="char:EOLhyphen"/>thers who ſtudy: Likewiſe it is miſ-be<g ref="char:EOLhyphen"/>ſeeming to ſtudy, or read other bookes unſeaſonably, while the Maſter expli<g ref="char:EOLhyphen"/>cateth a leſſon, as alſo to hinder thy fel<g ref="char:EOLhyphen"/>lows attentions.</p>
+               <p n="14">14 Hearing thy Maſter, or likewiſe the Preacher; wriggle not thy ſelfe, as ſeeming unable to containe thy ſelfe within thy ſkinne, making ſhew to be the knowing, and ſufficient, to be miſ<g ref="char:EOLhyphen"/>price of others.</p>
+               <p n="15">15 At play, and at fire; good man<g ref="char:EOLhyphen"/>ners will, that one give place to them who are newly come.</p>
+               <pb n="5" facs="tcp:169433:6"/>
+               <p n="16">16 Take heed, that in playing thou do not over-heat thy ſelfe; Conteſt not, nor ſpeake lowder than thou maiſt with moderation. Drink not when thou art hot, be it that it cometh by play, or by walking a pace, or other labour: for it is a thing very prejudiciall to health, to drinke at ſuch a time.</p>
+               <p n="17">17. It is not decent to ſpet upon the fire; much leſſe to lay hands upon the embers, or put them into the flame to warme ones ſelfe, nor is it beſeeming to ſtoope ſo low as even to crouching, and as if it were one ſat on the ground. If there be any meat on the fire, thou ought'ſt not to ſet thy foot thereon, to heat it. In the preſence of a well bred company, it is uncomely to turne ones back to the fire, or to approach nigher than others: for the one, and other ſa<g ref="char:EOLhyphen"/>voureth of preheminence. It is not per<g ref="char:EOLhyphen"/>mitted but to the cheife in quality, or to him who hath charge of the fire, to ſtirre up the fire with the fire-forke, or to kindle it, take it a way, or put fuell on it.</p>
+               <pb n="6" facs="tcp:169433:7"/>
+               <p n="18">18 When thou ſetteſt, put not unde<g ref="char:EOLhyphen"/>cently one legge upon the other, but keepe them firme and ſettled, and joyne thy feet even, croſſe not them one up<g ref="char:EOLhyphen"/>on the other.</p>
+               <p n="19">19 Gnaw not thy nailes in the pre<g ref="char:EOLhyphen"/>ſence of others, nor bite them with thy teeth.</p>
+               <p n="20">20 Spet not on thy fingers, and draw them not as if it were to make them longer: alſo ſniffle not in the ſight of o<g ref="char:EOLhyphen"/>thers.</p>
+               <p n="21">21 Neither ſhake thy head, feet, or legges, Rowle not thine eyes. Lift not one of thine eye-browes higher than thine other. Wry not thy mouth, Take heed that with thy ſpettle thou bedew not his face with whom thou ſpeakeſt, and to that end, approach not too nigh him</p>
+               <p n="22">22 Kill not a flea, or other uncleane virmine in the preſence of others. And if thou ſeeſt any filth on the ground, as ſome thick ſpettle, or the like, put thy foot thereon dexterouſly, if thou canſt: if that were upon the cloathes of thy
+<pb n="7" facs="tcp:169433:7"/>companion; ſhew it not to others: but if thou canſt, put it off neatly, yet without his taking notice thereof, if it may ſo be: and if another doe for thee, the like of<g ref="char:EOLhyphen"/>fice, ſhew thy ſelfe unto him with tender of thanks.</p>
+               <p n="23">23 Spet not far off thee, nor behinde thee, but a-ſide, a little diſtant, and not right before thy companion: but if it be ſome groſſe flegme, one ought if it may bee, tread upon it. Be-ſpet not the win<g ref="char:EOLhyphen"/>dowes in the ſtreets, nor ſpet on the fire, nor on a Baſon, nor on any other place where the ſpettle cannot bee taken a<g ref="char:EOLhyphen"/>way, by putting thy foot thereon.</p>
+               <p n="24">24 Turne not thy backe to others, e<g ref="char:EOLhyphen"/>ſpecially in ſpeaking. Jogge not the Ta<g ref="char:EOLhyphen"/>ble, or Deſke, on which another doth read, or write; Leane not upon any one; pull him not by his cloak to ſpeake to him; puſh him not with thine elbow.</p>
+               <p n="25">25 Set not in order, at every hand<g ref="char:EOLhyphen"/>while, thy beard or thy ſtockings. Keepe not thy nailes foule, or too long, and keepe thy hands, and thy teeth cleane, yet without overmuch attendance ther<g ref="char:EOLhyphen"/>on, or curioſitie.</p>
+               <pb n="8" facs="tcp:169433:8"/>
+               <p n="26">26 Puffe not up thy cheekes: Lall not out thy tongue; Rub not thy beard, nor thy hands. Thruſt not out thy lips, or bite them, and keepe them neither too open nor too ſhut.</p>
+               <p n="27">27 Take heed thou be'ſt not a flat<g ref="char:EOLhyphen"/>terer: for ſuch an one ſheweth to have little opinion of the judgment of him whom hee flattereth, holding him for a ſimple fellow. Play not with him who taketh no pleaſure therein.</p>
+               <p n="28">28 It be commeth not to read Let<g ref="char:EOLhyphen"/>ters, Books, or other Writings, whilſt one is in company, unleſſe there bee ſome neceſſity, &amp; as it were in paſſing by; &amp; then alſo thou ſhould'ſt crave leave of the company, be it not that thou art the cheife of them all. No more may'ſt thou touch the writings, Bookes, or ſuch like things of others, nor go neare them nor fix thine eyes upon them, unleſſe thou be'ſt invited thereunto, by him who is the owner of them: and thou ſhouldſt not blame them, or praiſe them, until one aſketh thy advice therein. Al<g ref="char:EOLhyphen"/>ſo thou ought'ſt not to approach, or
+<pb n="9" facs="tcp:169433:8"/>looke nigh, when another readeth a Let<g ref="char:EOLhyphen"/>ter, or ſuch like thing.</p>
+               <p n="29">29 Let not thy countenance be like that of a phantaſticall, or haire-brai<g ref="char:EOLhyphen"/>ned, ſterne, amazed, melancholique, pen<g ref="char:EOLhyphen"/>ſive, inconſtant man, in ſuch ſort that one thereby may diſcerne ſome paſſion, or unruly affection: rather ſhew a good countenance, and pleaſant cheere, a<g ref="char:EOLhyphen"/>voyding too much mirth in ſerious af<g ref="char:EOLhyphen"/>faires, and too much gravitie in things familiar and ordinary.</p>
+               <p n="30">30 ⋆ Let the geſtures of thy body, be agreable to the matter of thy diſcourſe, For it hath been ever held a ſolaeſime in oratory, to poynt to the Earth, when thou talkeſt of Heaven.</p>
+               <p n="31">31 ⋆ Scorne not any, for the infir<g ref="char:EOLhyphen"/>mityes of nature, which by no Art can be amended, nor do thou, delight to put them in minde of them, ſince it very oft procures envye, and promotes malice e<g ref="char:EOLhyphen"/>ven to Revenge.</p>
+               <p n="32">32 ⋆ When thou ſhalt heare the misfortunes of an other, ſhew not thy
+<pb n="10" facs="tcp:169433:9"/>ſelfe gladed for it, though it happ to thy enemy, for that wil argue a mind miſche<g ref="char:EOLhyphen"/>vous, and will convict thee of a deſire, to have executed it thy ſelfe, had either power or opertunity ſeconded thy will.</p>
+               <p n="33">33 ⋆ When thou ſeeſt juſtice execu<g ref="char:EOLhyphen"/>ted on any, thou maiſt inwardly take delight in his vigillancy, to puniſh of<g ref="char:EOLhyphen"/>fenders, becauſe it tends to publique quiet, yet ſhew pity to the offender, and ever Conſtitute the defect of his mora<g ref="char:EOLhyphen"/>lity, thy precaution.</p>
+               <p n="34">34 ⋆ Laugh not too much, or too Loud, in any publique ſpectacle, leaſt for thy ſo doing, thou preſent thy ſelfe, the only thing worthy to be laughed at.</p>
+            </div>
+            <div n="2" type="chapter">
+               <head>
+                  <hi>CHAP. II.</hi> Of the firſt duties, and Ceremonies in Converſation.</head>
+               <p>ALthough ſuperfluous comple<g ref="char:EOLhyphen"/>ments, and all affectation in cere<g ref="char:EOLhyphen"/>monies are to be eſchewed, yet thou ought'ſt not to leave them which are
+<pb n="11" facs="tcp:169433:9"/>due, otherwiſe thou diſpleaſeſt the per<g ref="char:EOLhyphen"/>ſon with whom thou doſt converſe.</p>
+               <p n="2">2 Put off thy cap, or hatt, to perſons of deſert, as are Churchmen, Juſtices, and the like, turning thy cap, or hat, to thy ſelfe-wards, make them a reverence, bowing thy ſelfe more or leſſe, accor<g ref="char:EOLhyphen"/>ding to the qualitie ofthe perſons, and the cuſtome of the better-bred. So in like ſort, it is an undecent thing, not to do reverence to who<g ref="char:cmbAbbrStroke">̄</g> it appertaineth, &amp; among thy equals, to expect that thy companion prevent thee in that dutie. Alſo to put off ones hat when there is no neceſſitie, appeareth to have of affecta<g ref="char:EOLhyphen"/>tion; in like manner it is reproveable, to obſerve whether one doth re-ſalute thee: For the reſt, in manner of ſaluting, or reſaluting by word; keep the moſt common cuſtome of the beſt-trained up.</p>
+               <p n="3">3 It is ill ſaid, Sir bee covered, or put on your hat, to one of more eminency than thy ſelfe, as alſo not to ſay ſo much, to whom it is due. Likewiſe he who maketh too much haſt to put on his hat, and he who at the firſt putteth not on,
+<pb n="12" facs="tcp:169433:10"/>or after ſome few intreaties; doe not well: and therefore one ought to bee covered after the firſt, or for the moſt part after the ſecond time; if ſo that in ſome Countryes, the contrary cuſtome be not received, and among equals, or ſuperiours, who are of the ſelfe ſame houſe, the inferiour may cover himſelfe at the firſt requeſt. True it is, that equals, at the inſtant, or immediatly after, are wont to enterchange a ſigne of covering themſelves joyntly. Now what herein is ſpoken of qualification in behaviour, ought likewiſe to be conceived, in what concerneth taking of place, and ſit<g ref="char:EOLhyphen"/>ting downe: for ceremonies without bounds are too troubleſome.</p>
+               <p n="4">4 He who being inferiour, or held for ſuch an one, would put on his hat, his companion being uncovered, ought to demand leave of the other: then in good time let him do ſo; upon condition, that he may preſume, that nothing will of<g ref="char:EOLhyphen"/>fend the other.</p>
+               <p n="5">5 If any one come to ſpeake with thee whilſt thou ſitteſt; ſtand up: eſpe<g ref="char:EOLhyphen"/>cially
+<pb n="13" facs="tcp:169433:10"/>if the perſon do merit it, be it that he be greater than thy ſelfe, or for that he is not thy familiar, or though for the reſt he were thy equall, or thy inferiour: and if there be any thing for one to ſit on, be it a chaire, be it a ſtoole, give to each one his due.</p>
+               <p n="6">6 When thou ſhalt meet any one of greater rank than thy ſelf, thou oughteſt to ſtay thy ſelfe, yea, and even retire a little; eſpecially if the meeting bee at a doore, or other ſtraight paſſage, giving way that hee may paſſe.</p>
+               <p n="7">7 Walking in Company of the like, thou ſhalt give them the more worthy hand (according to the cuſtome of the countrey) in which ſpeaking in gene<g ref="char:EOLhyphen"/>rall, it ſeemeth to be the moſt common uſe, that the more noble place is on the right hand, the right, I ſay, in ſuch ſort, that hee, who doth honour to any o<g ref="char:EOLhyphen"/>ther, placing himſelfe on his left hand, giveth him the right. But if three walke together, the cheifeſt place in rank is for the moſt part, that of the middeſt; then that which is on the right hand: and the
+<pb n="14" facs="tcp:169433:11"/>laſt that of the left. Yet, in <hi>France,</hi> for ſo much as the place neer the wall is ordinarily more high, more ſure for eaſie walking, and cleaner, com<g ref="char:EOLhyphen"/>monly one giveth it to the more wor<g ref="char:EOLhyphen"/>thy, namely, where there are but two.</p>
+               <p n="8">8 Being with thy equals, bee not the firſt to take the beſt place: but if one preſent it unto thee, bee not wilfull in refuſing it: thou mayeſt well expreſſe ſome act of civill courteſie, ſhewing that thou excepteſt it rather to obey them, or for that thou wouldeſt not enter into importunate ſtriving, than for any me<g ref="char:EOLhyphen"/>rit of thine; at leaſt let it appeare, that thou rendreſt thanks.</p>
+               <p n="9">9 If any one farre ſurpaſſing others, either in age or in deſert, would give place to a meaner than himſelfe in his owne lodging, or elſewhere; even as hee ought not to accept of it, ſo hee on the other part, ſhould not uſe much earneſt<g ref="char:EOLhyphen"/>neſſe, nor offer it unto him more than once, or twice; to the end he be not ſuſ<g ref="char:EOLhyphen"/>pected of incivilitie.</p>
+               <p n="10">10 But to him who is ones peere, or
+<pb n="15" facs="tcp:169433:11"/>almoſt the ſame, one ought to give the cheiveſt place in ones own lodging; &amp; he ought gently to refuſe it: then at the ſe<g ref="char:EOLhyphen"/>cond offer to accept it, with thankſgi<g ref="char:EOLhyphen"/>ving, and recognizance.</p>
+               <p n="11">11 In walking to, and fro an houſe, thou oughteſt to obſerve the ſame, but it is enough that one put ones ſelfe on the left hand at the firſt, and afterwards continue where one is. Which may likewiſe bee obſerved, being with ones ſuperiours; yet uſe the moſt common cuſtome of the Country.</p>
+               <p n="12">12 They who are in dignitie, or in office, have precedence in all places: but whilſt they are young, they ought to reſpect them who are their equals in birth, or other qualities, although they have not any publique charge, if they be much more aged, principally if they have the degree of Docterſhip: nay, when they give to them, the chiefeſt place, they ought notwithſtanding at the firſt to refuſe it, afterwards to take it civilly with thankſgiving.</p>
+               <p n="13">13 It is good manners to preferre
+<pb n="16" facs="tcp:169433:12"/>them to whom one ſpeaketh, before ones ſelfe, eſpecially if they be farre a<g ref="char:EOLhyphen"/>boue us, with whom in no ſort ought one to contend.</p>
+               <p n="14">14 Meeting by the way the Biſhop of the Citie, the ſoveraigne Lord, or o<g ref="char:EOLhyphen"/>ther perſon of like qualitie, it is the du<g ref="char:EOLhyphen"/>ty of each one to do them the reverence which appertaineth to them, ſtaying ones ſelfe untill they are paſſed by.</p>
+               <p n="15">15 For that which concerneth cere<g ref="char:EOLhyphen"/>monies, or complements; we ought to have reſpect of time, place, age, and con<g ref="char:EOLhyphen"/>dition of perſons: and with them who are much imployed wee muſt bee briefe, nay rather wee ſhould make them un<g ref="char:EOLhyphen"/>derſtand by ſigne, that which we would ſay unto them.</p>
+               <p n="16">16 Even as Artificers, and other per<g ref="char:EOLhyphen"/>ſons of low conditions, ought not to trouble themſelves to uſe many cere<g ref="char:EOLhyphen"/>monies to them who are great, &amp; Lords; but reſpect them and humbly honour them: ſo likewiſe on the other part, they ought to treat with them in all ſort of affabilitie, and courteſie, keeping them<g ref="char:EOLhyphen"/>ſelves
+<pb n="17" facs="tcp:169433:12"/>from each action, or ſine of arro<g ref="char:EOLhyphen"/>gancy.</p>
+               <p n="17">17 Speaking to men of qualitie; leane not, and looke not them wiſtly in the face. Approach not too neere them, and at the leaſt keepe thy ſelfe a pace from them, or thereabout.</p>
+               <p n="18">18 Viſiting any ſick body, doe not play ſuddenly the Doctor of Phyſicks part, if thou therin underſtand nothing.</p>
+               <p n="19">19 Writing Letters, or ſpeaking to any perſon of honour, and qualitie; thou ſhalt give to each one the title which belongeth unto him, anſwerable to his degree, and the cuſtome of the Country: and it will not bee to ill pur<g ref="char:EOLhyphen"/>poſe to read over again that which thou haſt written, to the end thou mayeſt correct the faults, if any therein bee found.</p>
+               <p n="20">20 ⋆ Strive not with thy ſuperiours, in argument or diſcourſe, but alwayes ſubmit thy opinion to their riper judg<g ref="char:EOLhyphen"/>ment, with modeſty; ſince the poſſibi<g ref="char:EOLhyphen"/>lity of Erring, doth rather accompany greene than gray haires.</p>
+               <pb n="18" facs="tcp:169433:13"/>
+               <p n="20">20 ⋆ Doe not undertake to teach thy equall, in the Art himſelf profeſſeth, for that will ſavour of Arrogancy, and ſerve for little other than to brand thy judgment with Raſhneſſe.</p>
+               <p n="21">21 ⋆ Let thy Seremonyes in Cour<g ref="char:EOLhyphen"/>teſy be proper to the dignity and place, of him with whom thou converſeſt. For it is abſurd to honour a Clown, with words covrtly and of magnificence.</p>
+               <p n="22">22 ⋆ Do not thou expreſſe joy be<g ref="char:EOLhyphen"/>fore one ſick, or in paine: for that con<g ref="char:EOLhyphen"/>trary paſſion, will eaſily aggravate his miſery. But do thou rather Sympathize his infirmityes, for that will afford a gratefull eaſement, by a ſeeming parti<g ref="char:EOLhyphen"/>cipation.</p>
+               <p n="23">23 ⋆ Shew thy ſelf humbly, tractable, to thy Superiours, eſpecially to Ma<g ref="char:EOLhyphen"/>giſtrates, and men in Authority, let thy demeanour towards thy equals be ſuch as may argue thee free from arro<g ref="char:EOLhyphen"/>gancy. And be thou aſſured, that gen<g ref="char:EOLhyphen"/>tle affability towards thy inferiours, will fix to thy name the Epithite of courte<g ref="char:EOLhyphen"/>ous.</p>
+            </div>
+            <div n="3" type="chapter">
+               <pb n="19" facs="tcp:169433:13"/>
+               <head>
+                  <hi>CHAP. III.</hi> Of the faſhion of qualifing, or titling of Perſons to whom one ſpeaketh; to ad<g ref="char:EOLhyphen"/>viſe them; to breake a jeſt,</head>
+               <p n="1">1 TOuching the Titles, and Attribu<g ref="char:EOLhyphen"/>tes which comomonly one giveth to great perſons; it is needfull to obſerve the uſe of times, and of the Country, and to take counſell of them, who are verſed and experienced in ſuch things. Alſo one ought to take heed in ſpeaking to ſuch an one, that one change not his Ti<g ref="char:EOLhyphen"/>tle, giving unto him ſometimes one, ſometimes another, if one be not miſta<g ref="char:EOLhyphen"/>ken at the firſt.</p>
+               <p n="2">2 To perſons of leſſer ranck; one ſaith, you, without thou-ing any body, bee it not ſome little childe, and that thou wert much more aged, and that the cuſtome it ſelfe amongſt the more cour<g ref="char:EOLhyphen"/>teous, and better bread, were to ſpeake in ſuch manner. Yet, Fathers to their Children, untell a certaine age, as in
+<pb n="20" facs="tcp:169433:14"/>France untill they bee ſet at libertie; Maſters, to their little, Schollers; and o<g ref="char:EOLhyphen"/>thers of a like command, ſeeme accor<g ref="char:EOLhyphen"/>ding to the more common uſe, to have power to ſay, <hi>Thou, Thee,</hi> even plainly: for, what concerneth familiar friends, amongſt them the cuſtome doth com<g ref="char:EOLhyphen"/>port in certaine places, that they <hi>(Thou)</hi> one another more freely; in other places one is more reſerved.</p>
+               <p n="3">3 When a man doth the uttermoſt hee can, and ought, although it ſuccee<g ref="char:EOLhyphen"/>deth not to thy wiſhes; take heed to blame him: for in it, hee rather deſer<g ref="char:EOLhyphen"/>veth praiſe.</p>
+               <p n="4">4 Having whereof to adviſe, or re<g ref="char:EOLhyphen"/>prehend any one, take good heed whe<g ref="char:EOLhyphen"/>ther it ought to be done in publique, or in private; or indeed, whether it bee fit to remit it to another time: conſider in what termes thou ſhouldſt doe it, eſpe<g ref="char:EOLhyphen"/>cially when hee who ſhould bee coun<g ref="char:EOLhyphen"/>ſelled, ſeemeth not to give hope of re<g ref="char:EOLhyphen"/>medy to his paſſed, or future faults: a<g ref="char:EOLhyphen"/>bove all, in reproving any one, ſhew no ſigne of choler, nor ſpeake to him with
+<pb n="21" facs="tcp:169433:14"/>too high an accent: but doe it with all ſweetneſſe.</p>
+               <p n="5">5 Being admoniſhed of any whoſo<g ref="char:EOLhyphen"/>ever, and in what time, and place ſo<g ref="char:EOLhyphen"/>ever; ſhew to take it in good part, thank<g ref="char:EOLhyphen"/>ing him who hath done thee ſuch an of<g ref="char:EOLhyphen"/>fice; but if afterwards, being not culpa<g ref="char:EOLhyphen"/>ble, it ſeeme to thee neceſſary to juſtifie thy ſelfe; thou mayſt doe it in time, and place, and with decency, rather to con<g ref="char:EOLhyphen"/>tent him who adviſeth thee, than to excuſe thy ſelfe, eſpecially, if hee bee thy ſuperiour.</p>
+               <p n="6">6 Reproach not anyes imperfections, although they bee naturall. Take not pleaſure to make any body bluſh, either by thy deed, or word.</p>
+               <p n="7">7 Neither mock, nor ſcoffe in a thing of importance, nor be reproachfull; nor alſo breake a jeſt, in biting like a dogge: but if thou delivereſt any conceit which is ready, and not too much permedita<g ref="char:EOLhyphen"/>ted, and without offence to any body, thou mayeſt do well. Wittie con<g ref="char:EOLhyphen"/>ceits, and paſſages of the tongue, ought not to be in baſe and miſ-beſeeming
+<pb n="22" facs="tcp:169433:15"/>things ſuch as are thoſe of jeſters: and when ſo it falleth out that thou deliver ſome happy, lively, an jolly conceit; abſtaine thou, and let others laugh.</p>
+               <p n="8">8 ⋆ Be ſure thy converſation be in that poynt vertuous, wherein thou art deſirous to retaine another, leaſt thy Actions render thy advice unprofitable; Since the ratification of any advice, is the ſerious proſecution of that virtue, For example hath ever been more pre<g ref="char:EOLhyphen"/>valent than precept.</p>
+               <p n="9">9 * In writing, or ſpeaking to any deprive then not of their acquired Ti<g ref="char:EOLhyphen"/>tles, leaſt thou ſeeme Cenſorious of their deſerts.</p>
+               <p n="10">10 * Thou oughteſt not too ſuden<g ref="char:EOLhyphen"/>ly to be ſeen a flying Rumour of a freind, or any other. But let charity guid thy judgment, untill more certanty: for by this meanes thou ſecureſt his Reputation, And free's thy ſelf of raſh<g ref="char:EOLhyphen"/>neſſe.</p>
+               <p n="11">11 * Uſe no reproachfull language againſt any man, nor Curſe, or Revile, For improperations and imprecations;
+<pb n="23" facs="tcp:169433:15"/>will rather betray thy affections to cen<g ref="char:EOLhyphen"/>ſour than in any manner, hurt him a<g ref="char:EOLhyphen"/>gainſt whom thou utters them.</p>
+            </div>
+            <div n="4" type="chapter">
+               <head>
+                  <hi>CHAP. IV.</hi> Of Cloaths, and Arraying the Body.</head>
+               <p n="1">1 BE not too ſolicitous in ſetting thy bands, thy haire, or thy beard. Car<g ref="char:EOLhyphen"/>ry not about thee any ſweet ſmell. Weare not thy hat too high on thy head, nor too cloaſe on thine eyes, nor in the faſhion of ſwaggerers, and jeſters.</p>
+               <p n="2">2 Untruſſe not thy ſelfe, nor make thy ſelfe ready for the cloaſe ſtoole in the preſence of others: afterwards if thou be to touch any meat, firſt, waſh thine hands: but if it may bee, not in the ſight of any whoſoever.</p>
+               <p n="3">3 It is a poynt of cleanlineſſe, and of wholeſomnes, to waſh ones hands and face as ſoone as one is up; and to combe ones head in time, and ſeaſon; yet not too curiouſly.</p>
+               <p n="4">4 Weare not thy cloathes foule, un<g ref="char:EOLhyphen"/>ſowed
+<pb n="24" facs="tcp:169433:16"/>duſty, nor old; looke that they be bruſhed commonly once a day. Take heed where thou ſitteſt, or kneeleſt, and whom thou approacheſt, for feare that there be duſt or ſome uncleannes. Carry not thy Cloake, under thine arme, like a Braggadoche. If thou layeſt by thy Cloake, or thy Gowne, wrap it up, take<g ref="char:EOLhyphen"/>ing heed where thou putteſt it.</p>
+               <p n="5">5 For what concerneth cloathes; ac<g ref="char:EOLhyphen"/>commodate thy ſelfe to the faſhion of thy equals, civill and orderly men, ac<g ref="char:EOLhyphen"/>cording to the uſe of times, and places: Yet thy Cloathes ought to bee rather more plaine, and grave, regard had to others, than richer and beter.</p>
+               <p n="6">6 ⋆ Ever be modeſt in thy apparell, rather ſeeking to Accommodate na<g ref="char:EOLhyphen"/>ture, then curious by Art to pro<g ref="char:EOLhyphen"/>cure admiration: Cloathes may give thee ornament, but the juditious will ne<g ref="char:EOLhyphen"/>ver ſeeke thy perfection on thy outſide. And I'me ſure if decency be thy only aime, thou wilt be ſure to ſhoulder off the cenſure of a Phantaſtick.</p>
+               <p n="7">7 ⋆ Admire not thy ſelfe in thy ap<g ref="char:EOLhyphen"/>parrell,
+<pb n="25" facs="tcp:169433:16"/>for that will ſo farr monſtrate thy defects, as thou art willing to ſeeke perfection, in the ſkill of a Taylour.</p>
+            </div>
+            <div n="5" type="chapter">
+               <head>
+                  <hi>CHAP. V.</hi> Of walking, be it alone or in Company</head>
+               <p n="1">1 RUnne not in the ſtreets, alſo goe not too ſlowly, nor with thy mouth open: Move not to and fro in walking, goe not like a ninnie, nor hang thy hands downwards: Shake not thine armes: kick not the earth with thy feet: Throw not thy leggs a-croſſe here and there, and walking, draile not thy feet after thee: Truſſe not up thy breeches at every hand-while: goe not upon the top of thy toes, nor in a dauncing faſhi<g ref="char:EOLhyphen"/>on, nor in a ſtooping, nor in a capering or in a tripping manner with thy heeles.</p>
+               <p n="2">2 Play not the Peacock, looking e<g ref="char:EOLhyphen"/>very where about thee, whether thou beeſt well decked, and trimme, if thy ſhooes ſit well, if thy ſtocking bee fitly drawn up, and thy other clothes hand<g ref="char:EOLhyphen"/>ſome,
+<pb n="26" facs="tcp:169433:17"/>and well accommodated. Goe not out of thy chamber with thy pen in thine eare, cap, or hat; carry not thy handkerchiefe in thy hand, nor in thy mouth, nor hang it at thy girdle, nor under thine arme, nor upon thy ſhoul<g ref="char:EOLhyphen"/>ders, or under thy gowne: but put it in a place where others ſee it not, and from whence thou mayſt take it out when thou needeſt. Beware, although thou hadſt ſcarcely made uſe thereof, to pre<g ref="char:EOLhyphen"/>ſent it to others.</p>
+               <p n="3">3 Eat not in the ſtreets, principally in the Towne, beeſt thou alone, nor in company; nor in the houſe out of ſea<g ref="char:EOLhyphen"/>ſon, and in the preſence of ſtrangers.</p>
+               <p n="4">4 Laugh not, nor ſpeake not thou being alone; for it is not the part of a man. Walking alone, ſing not in ſuch manner, that thou be over-heard. Make not any ſigne of admiration, as if thou thoughteſt of ſome great buſineſſe: Alſo throw not in the ſtreets a ſtone, a ſtick, or any other thing. Tread not purpoſe<g ref="char:EOLhyphen"/>ly one the pebble ſtones, and remove them not out of their places, for it is the
+<pb n="27" facs="tcp:169433:17"/>act of a foole; Goe not with thy head too high, nor too low, nor hanging to the right, or left, and looke not giddily here and there.</p>
+               <p n="5">5 Above all things, if thou eſteemeſt of thy reputation, aſſociate thy ſelfe with men of good qualitie: but if it can<g ref="char:EOLhyphen"/>not be, becauſe thou knoweſt none, or for ſome other reaſon; it were better, as one ſaith, to bee alone, than ill ac<g ref="char:EOLhyphen"/>companied.</p>
+               <p n="6">6 If thou goeſt with one of thy rank, take not the upper hand, and amuſe not on points of precedence; and having not the place which belongeth to thee, let it not trouble thee, but goe on roundly. It indignitie he be more emi<g ref="char:EOLhyphen"/>nent than art thou; give him the right hand, or the moſt worthy place, and be<g ref="char:EOLhyphen"/>ware thou goe not before him.</p>
+               <p n="7">7 Walking up and downe an houſe with one only, if he be greater than thy ſelfe; at firſt give him the right hand, and ſtop thou not then, when he ſtay<g ref="char:EOLhyphen"/>eth; bee not thou the firſt to returne; and turne not thy back to him, but thy ſelfe to<g ref="char:EOLhyphen"/>wards
+<pb n="28" facs="tcp:169433:18"/>him. If he bee a man of great qua<g ref="char:EOLhyphen"/>litie, walke not at all by him cheeke by joule, but ſomewhat behind him; yet in ſuch manner, that he may eaſily ſpeak to thee. If he bee thy equall, carry thy ſelfe ſo that thou turne proportionably with him, and make him not alwayes the firſt: Likewiſe ſtop not too often at mid-way, if there bee not great neceſ<g ref="char:EOLhyphen"/>ſitie: for that ſavoreth of ſuperioritie, &amp; is accounted troubleſome. Hee, in the middeſt walking with equals, or as it were equals, ought to turne himſelfe, now to the right, then to the left hand: and if ſo bee that they be not equals, let him turne for the moſt part towards him who deſerveth beſt. Finally, they who are on the ſide, ought alwayes to turne themſelves towards him who is in de midſt, neither before him nor be<g ref="char:EOLhyphen"/>hinde him.</p>
+               <p n="8">8 ⋆ In thy walkings alone, expreſſe no paſſion in thy geſture, leſt by that meanes thou ſhouldſt turne thy breaſt into Criſtall, and let others reade thy minde at a diſtance.</p>
+               <pb n="29" facs="tcp:169433:18"/>
+               <p n="9">9 ⋆ Let thy converſation be with<g ref="char:EOLhyphen"/>out malice or envye, for that is a ſigne of a tractable and commendable nature. And in all cauſes of paſſion, admit rea<g ref="char:EOLhyphen"/>ſon for thy governeſſe, ſo ſhall thy Re<g ref="char:EOLhyphen"/>putation be either altogether inviolable, or at the leaſt not ſtayned with common Tinctures.</p>
+               <p n="10">10 ⋆ Never expreſſe any thing un<g ref="char:EOLhyphen"/>beſeeming, nor act againſt the Rules morall, before thy inferiours, For in theſe things, thy owne guilt will multiply Crimes by example, and as it were, confirme Ill by authority.</p>
+               <p n="11">11 ⋆ Be not imumodeſt in urging thy friend to diſcover his ſecrets; leſt an accidentall diſcovery of them, worke a breach in your amitye.</p>
+            </div>
+            <div n="6" type="chapter">
+               <head>
+                  <hi>CHAP. VI.</hi> Of Diſcourſe.</head>
+               <p n="1">1 VTter not frivolous things amongſt grave and learned men, nor any very difficult queſtion or ſubject, a<g ref="char:EOLhyphen"/>mongſt
+<pb n="30" facs="tcp:169433:19"/>the ignorant, nor things which are hard to bee beleeved. Farce not thy language with Sentences, eſpecially amongſt thy equals, and much leſſe a<g ref="char:EOLhyphen"/>mongſt thy betters. Speake not of miſ<g ref="char:EOLhyphen"/>chances, and dolefull things inoppor<g ref="char:EOLhyphen"/>tunely, and to the company: In time of mirth, or at the Table, ſpeake not of melancholick things, of wounds, of ſculls, of death; and if others ſpeake in that kind, change the diſcourſe, if thou canſt, dexterouſly. Tell not thy dreames, if it bee not to thy intimateſt friends, when they might ſeeme to bee of great and notable preſage; to which notwithſtanding thou ſhalt not give credit.</p>
+               <p n="2">2 A man well bred ought not to vaunt himſelfe of his brave atchieve<g ref="char:EOLhyphen"/>ments, or rare qualities of wit, of vertue, or of the like; much leſſe ſpeake of his nobleneſſe, honour, riches, or his kin<g ref="char:EOLhyphen"/>dred, if hee bee not more than conſtrai<g ref="char:EOLhyphen"/>ned; alſo he ought not to depreſſe him<g ref="char:EOLhyphen"/>ſelfe too much without occaſion.</p>
+               <p n="3">3 It is to no purpoſe to breake a jeſt
+<pb n="31" facs="tcp:169433:19"/>there where one taketh no pleaſure in mirth. Laugh not aloud, and to the diſ<g ref="char:EOLhyphen"/>figuring of thy countenance, or with<g ref="char:EOLhyphen"/>out ſubject, onely be cuſtome. Deride not the mis-fortune of any one, al<g ref="char:EOLhyphen"/>though there ſeeme to bee ſome cauſe why.</p>
+               <p n="4">4 Speake not an injurious word; bee it in jeſt, or in earneſt. Nip not any by word: Likewiſe one ought not to ſcoffe any body; eſpecially, if they be greater than thy ſelfe, although they give occa<g ref="char:EOLhyphen"/>ſion.</p>
+               <p n="5">5 Be not froward, but friendly, and courteous, and the firſt to ſalute others: heare, and anſwer, and bee not penſive, when it is a time to converſe and diſ<g ref="char:EOLhyphen"/>courſe.</p>
+               <p n="6">6 By no meanes detract from any o<g ref="char:EOLhyphen"/>ther, nor ſpeake of things which belong unto him; alſo bee not too exceſſive in prayſing.</p>
+               <p n="7">7 Go not thither, where thou know<g ref="char:EOLhyphen"/>eſt not whether thou ſhalt bee welcome. Give not thy advice, except one aske it of thee, bee it not that thou art the beſt
+<pb n="32" facs="tcp:169433:20"/>there, principally out of ſeaſon, and where there is no hope of profiting: and being intreated to deliver what thou thinkeſt, be briefe, and come quickly to to the point.</p>
+               <p n="8">8 If two contend amongſt themſelves, take not the part of either, if thou be'ſt not compelled: and take heed that thou bee not obſtinate in thine opinion. In things indifferent, bee thou on the part of the moſt of the Company, who deli<g ref="char:EOLhyphen"/>ver thereon their opinions.</p>
+               <p n="9">9 Reprehend not the imperfections of others, for that is the part of Fathers, Maſters, and Superiours: thou mayeſt well ſhew, notwithſtanding, that they diſtaſt thee: Likewiſe may'ſt thou now and then ſagely give ſome good coun<g ref="char:EOLhyphen"/>ſell in time, and place.</p>
+               <p n="10">10 Stay not to gaze on the markes or blemiſhes appearing on others, although they be naturall, principally, if they bee in the face: and aske not from whence they come; and that which thou well mayeſt ſpeake in ſecret to thy friend, de<g ref="char:EOLhyphen"/>liver not in the preſence of orhers.</p>
+               <pb n="33" facs="tcp:169433:20"/>
+               <p n="11">11 Speake not in an unknown lang<g ref="char:EOLhyphen"/>uage, or in what thou knoweſt not well, be it not in caſe of neceſſitie to be better underſtood: but uſe thine own naturall tongue, as men of qualitie of the Town ſpeake it; not like the meane ſort. eſ<g ref="char:EOLhyphen"/>pecially, take thou heed to utter words which ſavour of immodeſtie, although in ſecret, or to move mirth. Uſe not homely, and clowniſh words, when things ſublime and ſerious are treated of</p>
+               <p n="12">12 Speake not before thou thinkeſt what thou would'ſt deliver, and in the vulgar language. And make not a ſhew of nimble conceits, and clinches. Pro<g ref="char:EOLhyphen"/>nounce not imperfectly, nor haſtily bring forth thy words: Likewiſe utter not thy words ſo ſlowly, that thou trouble the hearers.</p>
+               <p n="13">13 When another ſpeaketh, take heed that through thee hee bee not neg<g ref="char:EOLhyphen"/>lected by his auditors; and be attentive, turning not thine eyes here and there, nor buſie thy ſelfe in ought elſe. If any drawl forth his words, help him not
+<pb n="34" facs="tcp:169433:21"/>therein, nor prompt him, bee it not that hee intreat thee ſo to doe, or that it were in private, or that thou hadſt great familiaritie with him. Likewiſe inter<g ref="char:EOLhyphen"/>rupt him not, nor anſwer him, untill hee have brought his ſpeech to a period.</p>
+               <p n="14">14 Being in the midſt of a diſcourſe, aſke not of what one treateth, ſince that it is a draught of authoritie; but thou mayſt well intreat gently, that hee proced, if thou perceiveſt that for thee hee hold his peace. On the contrary, if any one come on a ſudden whilſt thou talkeſt, eſpecially if hee bee a perſon of qualitie, it is ſeemely to make a little E<g ref="char:EOLhyphen"/>pilogue, and briefe collection of what thou deliveredſt, &amp; then afterwards go on with thy diſcourſe.</p>
+               <p n="15">15 Thou ought'ſt not to make face, or uſe any other action of undecency with thy mouth, eyes, or thy hands, to expreſſe what thou wouldeſt deliver; neither ought'ſt thou to hold thy hand behind thy back, either claſped, ar a<g ref="char:EOLhyphen"/>croſſe; for that ſavoureth of ones pre<g ref="char:EOLhyphen"/>heminence: but place thy hands before
+<pb n="35" facs="tcp:169433:21"/>thee, one over the other, ſomewhat un<g ref="char:EOLhyphen"/>der thy breſt, or under thy girdle. When thou talkeſt, be circumſpect how thou carrieſt thy body. Shake not thy head, nor move thy hands much, and hold thy feet ſtill.</p>
+               <p n="6">16 Whilſt thou ſpeakeſt, put not on thy hat, nor ought elſe before thy mouth. Chew not paper, nor other thing. Shake not thy head. Deale not blowes with thy elbowes. Stand not tit<g ref="char:EOLhyphen"/>tertatter, on one foot. Put not one legg overthwart the other.</p>
+               <p n="17">17 Point not with thy finger at him of whom thou ſpeakeſt. Approach not too nigh his perſon; leſſe, his face, to whom thou talkeſt.</p>
+               <p n="18">18 If thou be'ſt in Company, ſpeake not in ſecret with whomſoever, but re<g ref="char:EOLhyphen"/>ferre it to another time, if ſo bee that thou haſt no authoritie over them.</p>
+               <p n="19">19 To treat with men at an unfit time, is to do nothing, or rather to an<g ref="char:EOLhyphen"/>ger them with whom thou wouldſt ſpeake.</p>
+               <p n="20">20 Take thou heed that thou make
+<pb n="36" facs="tcp:169433:22"/>no compariſons; and if any body hap<g ref="char:EOLhyphen"/>pen to be praiſed, for ſome brave act, or verture; praiſe not another for the ſame vertue in his preſence: for every com<g ref="char:EOLhyphen"/>pariſon is odious.</p>
+               <p n="21">21 Be not apt to relate newes, if thou knoweſt not, that for the moſt part they bee true. Diſcourſing of things which thou haſt heard, ſay not; <hi>who told them unto the,</hi> if thou thinkeſt not that he will take it well, What hath been told thee in ſecret; relate it not to another.</p>
+               <p n="22">22 Be not tedious in thy ſpeech, rea<g ref="char:EOLhyphen"/>ding, diſcourſe: principally when the thing is of ſmall importance, or when thou perceiveſt that the company doth not well like of it.</p>
+               <p n="23">23 Be not curious to know the af<g ref="char:EOLhyphen"/>faires of others: and approach not to that ſide where one ſpeaketh in ſecret.</p>
+               <p n="24">24 Undertake not that which thou canſt not performe; but keepe thy pro<g ref="char:EOLhyphen"/>miſe.</p>
+               <p n="25">25 When thou doſt a meſſage, deli<g ref="char:EOLhyphen"/>vereſt a relation or manifeſtation of a buſineſſe; indeavour to doe it without
+<pb n="37" facs="tcp:169433:22"/>Paſſion, and with diſcretion: although it be thou treateſt with perſons of mean rank or quality.</p>
+               <p n="26">26. When thoſe that are thy Tu<g ref="char:EOLhyphen"/>tors talk to any body, or other; be thou aware to ſpeak, to laugh, or to hearken to them.</p>
+               <p n="27">27. Take heed to mumble, or make a noiſe within thy teeth.</p>
+               <p n="28">28. Aſſure not that which thou knoweſt not, to be true.</p>
+               <p n="29">29. Being with perſons of more qua<g ref="char:EOLhyphen"/>lity than art thou, principally if they have power over thee; ſpeak not untill thou art asked: and then ſtand upright, put off thy hat, and anſwer in few words, if ſo be they give thee not leave to ſit, or to put on thy hat.</p>
+               <p n="30">30. In diſputes which occurre, eſpe<g ref="char:EOLhyphen"/>cially in converſation; be not ſo deſirous to win, that thou leave no liberty to each one to deliver his opinion: and be it that thou art in the wrong, or right, thou ought'ſt to give way to the judge<g ref="char:EOLhyphen"/>ment of the major part, or at the leaſt to the moſt cholerick and peeviſh, and
+<pb n="38" facs="tcp:169433:23"/>farre rather to them under whom thou art, or who are Judges of the diſ<g ref="char:EOLhyphen"/>pute.</p>
+               <p n="31">31. Although thou be'ſt bitten, or injured by words, anſwer not; and en<g ref="char:EOLhyphen"/>deavour not to defend thy ſelfe; but make ſhew to take them in jeſt, and that thou careſt not for them; although o<g ref="char:EOLhyphen"/>thers do move thee to defend thy ſelfe; for, as the Proverb ſaith, <hi>Each queſtion doth not deſerve an anſwer.</hi>
+               </p>
+               <p n="32">32. Contradict not at every hand-while, that which others ſay, contending and ſaying, <hi>It is not ſo; it is as I ſay:</hi> but apply thy ſelf therein to the opinion of others; principally, when the things are of ſmall conſequence.</p>
+               <p n="33">33. Being in company alſo even with them of thy condition, play not the Mountebanke and pratler, but ſpeake with meaſure, and in due time, having wherewithall to talke to the purpoſe of that which is handled, and with cer<g ref="char:EOLhyphen"/>tainty of truth: For, to ſpeak, or rehearſe a thing, not knowing it, and afterwards to excuſe ones-ſelf, in ſaying, <hi>I do not re<g ref="char:EOLhyphen"/>member
+<pb n="39" facs="tcp:169433:23"/>it well, I know well that I have read it;</hi> that becommeth not.</p>
+               <p n="34">34. If any one had begun to rehearſe a Hiſtory; ſay not, <hi>I know it well:</hi> and if he relate it not a-right, and fully; ſhake not thy head, twinkle not thine eyes, and ſnigger not thereat; much leſſe maiſt thou ſay, <hi>It is not ſo, you deceive your ſelfe.</hi>
+               </p>
+               <p n="35">35. Speake not very loud, as would the Cryer of Proclamations. Nor ſpeake ſo low, that one cannot under<g ref="char:EOLhyphen"/>ſtand thee.</p>
+               <p n="36">36. Let thy carriage bee beſeeming a man moderately grave, ſetled, and at<g ref="char:EOLhyphen"/>tentive to that which is ſpoken: to the end thou haſt not occaſion to ſay at eve-diſcourſe; <hi>What ſay you? How happened that? I underſtand you not;</hi> and the like.</p>
+               <p n="37">37. In diſcourſes, walking, hold not back thy companion, as it were by a bridle, ſtaying him at every three words. Approach not ſo nigh unto him, that thou juſtle him. Keep not thy ſelfe further from him than a ſpan, or there<g ref="char:EOLhyphen"/>about.</p>
+               <pb n="40" facs="tcp:169433:24"/>
+               <p n="38">38. Be not a yeare in the beginning of a Diſcourſe, and in certaine long ex<g ref="char:EOLhyphen"/>cuſes, or ceremonies, ſaying; <hi>Sir, excuſe me, if I know not to deliver my ſelfe well, &amp;c. yet to obey you, &amp;c.</hi> and other-like troubleſome and ſottiſh drawlings, and nice curioſities: but enter readily into the matter; as much as may bee, with moderate boldneſſe: then proceed without being troubled, even to the end. Be not tedious; make not many di<g ref="char:EOLhyphen"/>greſſions, nor repeat often-times the ſame manner of ſpeeeh.</p>
+               <p n="39">39. He who hath an unready ſpeech, let him not alwayes take upon him the Diſcourſe: but let him endeavour to correct the default of his tongue by ſi<g ref="char:EOLhyphen"/>lence, and good attention.</p>
+               <p n="40">40. ⋆ Speak not evill of one abſent, for it is unjuſt to detract from the worth of any, or beſmeare a good name by condemning, where the party is not preſent, to cleare himſelfe, or un<g ref="char:EOLhyphen"/>dergoe a rationall conviction.</p>
+               <p n="41">41 ⋆ It is a thing very improper, if not altogether ridiculous, to treat of matters about
+<pb n="41" facs="tcp:169433:24"/>
+                  <gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>bove the capaſſitie of thy Auditours, for by ſo doing though thou ſhould'ſt purchaſe admiration from their igno<g ref="char:EOLhyphen"/>rance; yet, it will procure deriſſion from the wiſe, ſince by that meanes: thy diſcourſe will become common ayre, and they who here thee, will be altogether unſatisfied in thy Concluſions.</p>
+            </div>
+            <div n="7" type="chapter">
+               <head>
+                  <hi>CHAP. VII.</hi> Of Carriage at the Table.</head>
+               <p n="1">1 BEing ſet at the Table, ſcratch not thy ſelfe, and take thou heed as much as thou canſt, to ſpet, cough, and to blow thy noſe; but if it bee needfull, do it dexterouſly without much noiſe, turning thy face ſideling.</p>
+               <p n="2">2 Take not thy repaſt like a glutton.</p>
+               <p n="3">3 Breake not bread with thy hands; but cut it with a knife, if it bee not ve<g ref="char:EOLhyphen"/>ry little, and very new, and that all the others did the ſame, or the major part.</p>
+               <p n="4">4 Caſt not thy ſelfe upon the Table with thine armes ſtretched out, even to
+<pb n="42" facs="tcp:169433:25"/>the elbowes. And leane not thy ſhoul<g ref="char:EOLhyphen"/>ders, or thine armes, on thy chaire un<g ref="char:EOLhyphen"/>decently.</p>
+               <p n="5">5 Eat not with thy cheekes full, and with full mouth.</p>
+               <p n="6">6 Sop not in Wine, if thou be'ſt not the Maſter of the houſe, or haſt ſome in<g ref="char:EOLhyphen"/>diſpoſition or other.</p>
+               <p n="7">7 Make not ſhew to take great de<g ref="char:EOLhyphen"/>light in thy Meat, or in thy wine; but if hee who feaſteth thee, aſke of thee, how thou likeſt it, thou may'ſt anſwer him with modeſtie, and prudence, much leſſe ſhould'ſt thou finde fault with the meat, or procure others or more.</p>
+               <p n="8">8 Taking ſalt, beware that thy knife bee not greazy, when it ought to be wi<g ref="char:EOLhyphen"/>ped, or the fork. One may doe it neatly with a little peece of bread or as in cer<g ref="char:EOLhyphen"/>taine places with a Napkin; but never with a whole loafe.</p>
+               <p n="9">9 Entertaining any one, it is decent to ſerve him at the Table, and preſent him with meats, yea, even thoſe which are nigh him: but if one bee invited by another, it is better to attend untill that
+<pb n="43" facs="tcp:169433:25"/>the Maſter or other do carve him meat, than that he take it himſelfe, were it not that the Maſter intreat him to take freely, or that one were in the houſe of a familiar friend. Alſo one ought ſcarce offer ones ſelfe, as undeſired, to ſerve o<g ref="char:EOLhyphen"/>thers out of ones houſe, where one might have little power; bee it not that the number of the gueſts were great, and that the Maſter of the houſe could not have an eye on all the company; then one may carve them who are neer ones ſelfe.</p>
+               <p n="10">10 Blow not upon thy meat; but if it bee hot, ſtay untill it bee cold: Broath may bee cooled, turning it gently with a ſpoone; but it is not comly to ſup ones broth at Table, it ought to bee eaten with a ſpoone.</p>
+               <p n="11">11 Smell not to the meat; and if thou holdeſt thy noſe to it, ſet it not af<g ref="char:EOLhyphen"/>terwards before another.</p>
+               <p n="12">12 Be-ſmeare not thy bread round about with thy fingers, but when thou wilt cut ſome bread, wipe them firſt, if they bee greazy. Therefore take heed
+<pb n="44" facs="tcp:169433:26"/>as nigh as thou canſt of fouling thy hands, or of greazing thy fingers. And having a ſpoone, or forke, make uſe of it, as becometh thee, according to the cuſtome of the beſt bread.</p>
+               <p n="13">13 If thou ſoakeſt thy bread or meat in the ſauce; ſoake it not againe, after that thou haſt bitten it, dip therein at each time a reaſonable morſall which may be eaten at one mouthfull.</p>
+               <p n="14">14 One ought not to caſt under the Table, or on the ground, bones, parings, wine, or ſuch like things; notwithſtand<g ref="char:EOLhyphen"/>ing, if one bee conſtrained to ſpet ſome<g ref="char:EOLhyphen"/>thing, which was to hard to chew, or which cauſeth irkſomneſſe, then may one throw it forth dext'rouſly up<g ref="char:EOLhyphen"/>on the ground, taking it decently with two fingers, or with the left hand halfe ſhut; ſo that it be not a liquid thing; in ſuch caſe one may more freely ſpet it on the ground, turning ones ſelfe, if it bee poſſible, ſomewhat aſide, as hath beene ſaid here above.</p>
+               <p n="15">15 Likewiſe it appeareth not a ſeem<g ref="char:EOLhyphen"/>ly thing, to ſpet forth the ſtones of
+<pb n="45" facs="tcp:169433:26"/>Plummes, Cherries, or ſuch like on a diſh; but one ought firſt to gather them neatly, as it hath beene ſaid, in the left hand, bearing it to ones mouth, and then lay them upon the brimme of a trencher.</p>
+               <p n="16">16 Put not thy meat in thy mouth, holding thy knife in thy hands, as doe the Cuntrey clounes.</p>
+               <p n="17">17 Caſt not thine eyes upon the tren<g ref="char:EOLhyphen"/>chers of others, and fix them not wiſtly upon the meat on the table &amp; lift them not up whilſt thou drinkeſt, or whilſt thou putteſt the meat in thy mouth.</p>
+               <p n="18">18 Cut not much bread at once, and make not too great ſhives; but of a ſmall, or middle ſize. Cut thy bread even, without framing a tub thereof, taking unto thee onely the crumme thereof; alſo flaw it not, ſolely taking the cruſt thereof. Cut not morſels of bread upon thy trencher.</p>
+               <p n="19">19 If thou haſt bad teeth, in ſuch manner that thou canſt not eat a cruſt of bread, or bread burned, or too hard; it ſeemeth better to pare the peece thou
+<pb n="46" facs="tcp:169433:27"/>cutteſt; than the whole loafe.</p>
+               <p n="20">20 It is miſ-beſeeming to ſtoope much to ones diſh, or meat; it ſufficeth to bow a little then when one carrieth the morſell which is ſauced to ones mouth, to the end that one foule not ones ſelfe, and afterwards to ſit up right againe.</p>
+               <p n="21">21 One ought ſometimes to looke off the meat; yet without gazing to and fro, or wiſtly looking upon the gueſts, or them who wait, or on the meat which is before others.</p>
+               <p n="22">22 In like manner it is undecent to ſoyle the Table cloth; and that which is worſe, to cleane ones face, or wipe away ones ſweat with the Napkin, or with the ſame to cleane ones noſe, ones trencher, or the diſh.</p>
+               <p n="23">23 Preſent not to others that where<g ref="char:EOLhyphen"/>of thou haſt firſt taſted, bee it Wine or other thing.</p>
+               <p n="24">24 Wipe not thy hands on thy bread if it bee a whole loafe: yet if they be greazy, it ſeemeth that thou may'ſt cleane them firſt with a peece of bread,
+<pb n="47" facs="tcp:169433:27"/>which thou art to eate forwith; then with a Napkin, to the end that thou foule it not much.</p>
+               <p n="25">25 When thou eateſt or drinkeſt, make not much noiſe with thy teeth, neither in ſupping, nor in grinding too hard, nor in any other manner.</p>
+               <p n="26">26 Suck no bones, at leaſt in ſuch wiſe that one may heare it: Take them not with two hands, but with one ſole<g ref="char:EOLhyphen"/>ly, and properly. Gnaw them not, nor teare the fleſh from the bones with thy teeth, as dogs doe: but make uſe of thy knife, holding them with one hand, or rather with two fingers, as nigh as thou canſt. Knock no bones upon thy bread, or trencher, to get out the marrow of them, but get out the marrow with a knife. To ſpeake better, it is the coun<g ref="char:EOLhyphen"/>ſell of the moſt wiſe, that it is not fit to handle bones, and much leſſe to mouth them</p>
+               <p n="27">27 Make not uſe of a knife to breake bones, plum-ſtones, or other hard thing; alſo breake them not with thy teeth, or other thing, but let them alone.</p>
+               <pb n="48" facs="tcp:169433:28"/>
+               <p n="28">28 Take not from the common diſh, that which is before thy companion, but onely that which is on thy ſide, and alſo no more than others. And if they be fruits, or ſuch like, handle them not to take the beſt: yet, if any one eat of thy diſh, take no heed what hee doth.</p>
+               <p n="29">29 Put not a bit in thy mouth, untill the former bee ſwallowed: let them bee ſuch that puffe not up thy cheekes notably. Serve not thy ſelfe with both thy hands, to carry a mor<g ref="char:EOLhyphen"/>ſell to thy mouth, but make uſe of the cuſtomary way, that is the left.</p>
+               <p n="30">30 Fill not thy glaſſe in ſuch man<g ref="char:EOLhyphen"/>ner that the wine run over, and fall up<g ref="char:EOLhyphen"/>on the Table-cloath.</p>
+               <p n="31">31 Drink not with meat in thy mouth; Call not for drink then, ſpeake not then; Fill not thy glaſſe to drinke, and drinke not, whilſt thy next compa<g ref="char:EOLhyphen"/>nion drinketh, or he who ſitteth at the upper end of the Table.</p>
+               <p n="32">32 When thou drinkeſt, gaze not here and there.</p>
+               <pb n="49" facs="tcp:169433:28"/>
+               <p n="33">33 Drinke not too leiſurely, nor too haſtily, nor as chawing the wine, nor too often. Before and after that thou haſt drunke, wipe thy lips, and breathe not with too great a noiſe then, nor ever: for it is an uncivill thing.</p>
+               <p n="34">34 Cleanſe not thy teeth with the Table-cloath, or Napkin, nor with thy finger, forke, or knife: much worſe would it be to do ſo with thy nailes; but uſe thy picktooth. It ſeemeth likewiſe uncomely to cleane them at the Table, were it ſo that the others doe not the ſame, and that it were the cuſtome of the beſt bread.</p>
+               <p n="35">35 Rince not thy mouth with wine, to ſpet it out before others, but when thou ſhalt be riſen from the Table, uſu<g ref="char:EOLhyphen"/>ally waſh thy hands with the others. For the mouth, it ſeemeth unfit to waſh it in mens preſence; and therefore, when water is given at the Table, one ought to waſh onely ones hands.</p>
+               <p n="36">36 It is a thing litile praiſe-worty, and now adayes almoſt out of uſe, to
+<pb n="50" facs="tcp:169433:29"/>call upon the company to eat; prin<g ref="char:EOLhyphen"/>cipally too often, and with impor<g ref="char:EOLhyphen"/>tunitie, for it ſeemeth that one berea<g ref="char:EOLhyphen"/>veth them of their libertie: much leſſe ſhouldſt thou drinke to others every time thou drinkeſt; but if one drinke to thee, thou mayſt refuſe it civilly, ren<g ref="char:EOLhyphen"/>dring him thanks for his courteſie, and acknowledging that thou yeeldeſt, or rather taſt a little of the Wine, eſpeci<g ref="char:EOLhyphen"/>ally with men who are accuſtomed to it, and take a deniall in ill part.</p>
+               <p n="37">37 When others have left eating, diſpatch alſo, and hold not thine armes upon the Table, but reſt thy hands only on the edge thereof.</p>
+               <p n="38">38 It is peculiar to the chiefeſt of the company, to bee the firſt to unfold his Napkin, and fall to the meat; and there<g ref="char:EOLhyphen"/>fore it is the dutie of others, to attend patiently, without ſetting hand on any thing before him.</p>
+               <p n="39">39 On the contrary part, he ought to be ſolicitous to begin in time to pro<g ref="char:EOLhyphen"/>vide all, and entertaine the gueſts, and finiſh all with ſuch dexteritie, that he
+<pb n="51" facs="tcp:169433:29"/>may give time to the ſloweſt to eate at their leiſure, entertaining himſelfe, if it bee needfull, in ſlightfull taſting meats, or when it is lawfull to diſ<g ref="char:EOLhyphen"/>courſe at the Boord, intermingling ſome little Relation, untill the compa<g ref="char:EOLhyphen"/>ny might make an end.</p>
+               <p n="40">40. Bee not angry at the Table whatſoever happeneth, or if ſo bee thou bee vexed, make no ſhew there<g ref="char:EOLhyphen"/>of, eſpecially there being ſtrangers at the Table: a cheerefull Countenance makes one diſh a Feaſt.</p>
+               <p n="41">41. Set not thy ſelfe at the upper end, but if it bee thy due, or that the Maſter of the houſe would have it ſo, contend not mcuh for thy going thither, that thou trouble all the Com<g ref="char:EOLhyphen"/>pany.</p>
+               <p n="42">42 If one read, or talke at the Table, be thou attentive; and if it be expe<g ref="char:EOLhyphen"/>dient that thou ſpeake, talke not with meat in thy mouth.</p>
+               <p n="43">43. ⋆ Let thy Speeches be ſeriouſly reverent, when thou ſpeakeſt of God
+<pb n="52" facs="tcp:169433:30"/>or his Attributes, for to jeſt or utter thy ſelfe lightly in matters divine, is an unhappy impiety, provoking hea<g ref="char:EOLhyphen"/>ven to juſtice, and urging all men to ſu<g ref="char:EOLhyphen"/>ſpect thy beliefe.</p>
+               <p n="44">44. ⋆ In all things which are to be learned, whether it bee in the contem<g ref="char:EOLhyphen"/>plation of humane actions, let not pre<g ref="char:EOLhyphen"/>cept bee neglected: for what at the firſt view, may ſeem uſeleſſe upon thy ſecond thoughts, thou mayſt finde worth obſerving.</p>
+               <p n="45">45. ⋆ Since Wiſedome is the per<g ref="char:EOLhyphen"/>fection of underſtanding, let Pru<g ref="char:EOLhyphen"/>dence to practiſe be the end of all thy Science; for the knowledge of Pre<g ref="char:EOLhyphen"/>cepts, teaching thee what is good, is not of ſufficiency to entititle thee ver<g ref="char:EOLhyphen"/>tuous, no more then thy body in thy ſoules abſence can expreſſe thee a man: Therefore neglect not to adorn thy in<g ref="char:EOLhyphen"/>tellect with knowledge directive, nor be thou wanting in ſuch actions as may truely crowne thee happy.</p>
+               <pb n="50" facs="tcp:169433:30"/>
+               <p n="46">46. ⋆ Content not thy ſelfe with the bare knowledge of theſe Precepts: but when thou haſt imprinted them in thy minde, expreſſe them in thy converſation; for vertue conſiſts in Action, not in Contemplation.</p>
+               <p>
+                  <hi>Laus Deo trino-uni.</hi>
+               </p>
+            </div>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
